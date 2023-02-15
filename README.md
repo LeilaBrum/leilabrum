@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=000000&width=435&lines=%E2%9C%A8+Ol%C3%A1+mundo!+Meu+nome+%C3%A9+Leila+Brum;%F0%9F%A4%97+Pode+me+chamar+de+Brum%2C+prazer+em+conhec%C3%AA-los)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=000000&width=435&lines=%E2%9C%A8+Ol%C3%A1+mundo!+Meu+nome+%C3%A9+Leila+Brum;%F0%9F%A4%97+Prazer+em+conhec%C3%AA-los)](https://git.io/typing-svg)
 
 <!--
 **LeilaBrum/leilabrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
