@@ -5,3 +5,9 @@
 	<img height="130em"  src="https://github-readme-stats.vercel.app/api?username=leilabrum&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide=prs,issues"/>
 	<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilabrum&layout=compact&langs_count=16&theme=buefy"/>
 <div>
+	
+<div style=”display: inline_block”><br>
+<img height="80em" aligh=”center” alt=”Leila-HTML” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img height="80em" aligh=”center” alt=”Leila-CSS” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</div>
+
