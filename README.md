@@ -7,7 +7,21 @@
 <div>
 	
 <div style=”display: inline_block”><br>
-<img height="80em" aligh=”center” alt=”Leila-HTML” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img height="80em" aligh=”center” alt=”Leila-CSS” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img height="40em" aligh=”center” alt=”Leila-AI” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img height="40em" aligh=”center” alt=”Leila-PS” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img height="40em" aligh=”center” alt=”Leila-JavaScript” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="40em" aligh=”center” alt=”Leila-HTML” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="40em" aligh=”center” alt=”Leila-CSS” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="40em" aligh=”center” alt=”Leila-C” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height="40em" aligh=”center” alt=”Leila-Java” src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />	             
+</div>	
+	
+#	
+	
+<div>
+	<a href="mailto:contato.leilabrum@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="mailto:contato.leilabrum@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+	<a href="https://instagram.com/leilabrumn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	<a href="https://instagram.com/leilabrumn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
