@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=000000&width=435&lines=%E2%9C%A8+Ol%C3%A1+mundo!+Meu+nome+%C3%A9+Leila+Brum%E2%9C%A8;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Tenho+20+anos+e+estudo+ADS+na+FATEC;%F0%9F%98%8A+Prazer+em+conhec%C3%AA-los!;%F0%9F%A4%97+Sejam+bem-vindos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=000000&width=435&lines=%E2%9C%A8+Ol%C3%A1+mundo!+Meu+nome+%C3%A9+Leila+Brum%E2%9C%A8;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Tenho+22+anos+e+estudo+ADS+na+FATEC;%F0%9F%98%8A+Prazer+em+conhec%C3%AA-los!;%F0%9F%A4%97+Sejam+bem-vindos!)](https://git.io/typing-svg)
 
 <div>
 	<a href="https://github.com/LeilaBrum">
